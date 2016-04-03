@@ -3,9 +3,9 @@
 # Site wide configuration
 ####################################
 #
-title:       "Leonids Jekyll theme"
-description: "Clean Jekyll blog theme called Leonids."
-url:         # the base hostname & protocol for your site
+title:       "Mexxmerized"
+description: "sharing my point of view"
+url:         # http://mexxmerized.github.io
 
 #
 ###################################
@@ -31,11 +31,10 @@ kramdown:
 ####################################
 #
 owner:
-  name: Your name
+  name: Mexx
   avatar: avatar.jpg
-  job: "Your job"
-  bio: "Write about yourself"
-  email:
+  bio: "explore, learn, use, share"
+  email: mexxmerized@gmail.com
   disqus-shortname:
   twitter:
   facebook:
@@ -50,7 +49,7 @@ owner:
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   xing: #username
-  instagram: #username
+  instagram: #mexxmerized
   lastfm: #username
   tumblr: #username
   pinterest: #username
